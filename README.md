@@ -56,8 +56,3 @@ Screenshots include:
 7. Delete Task confirmation
 Security Features
 The CommandValidator class ensures that unsafe commands (such as rm -rf, wget, or system file access) are blocked. The ShellRunner class automatically switches between cmd.exe and /bin/sh depending on the operating system.
-Author
-Prepared by: Ananya Tayi
-Course: B.Tech in Computer Science and Engineering
-Institution: Amrita School of Engineering, Bengaluru
-GitHub: https://github.com/your-GitHub-username
